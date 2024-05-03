@@ -11,5 +11,7 @@ import Signup from "./Signup";
 import Login from "./Login";
 import PostForm from "./post-form/PostForm";
 import AuthLayout from "./AuthLayout";
+import Button from './Button.jsx';
+import Input from "./Input.jsx";
 
-export { Header, Footer, Loading, Container, Logo, LogoutBtn, Select, PostCard, RTE, Login, Signup, PostForm, AuthLayout };
+export { Header, Footer, Loading, Container, Logo, LogoutBtn, Button, Input, Select, PostCard, RTE, Login, Signup, PostForm, AuthLayout };
